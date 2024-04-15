@@ -51,3 +51,5 @@ offset_bottom = -60.0
 theme_override_styles/fill = SubResource("StyleBoxFlat_yejlg")
 value = 17.0
 show_percentage = false
+
+[connection signal="area_entered" from="." to="." method="_on_area_entered"]
