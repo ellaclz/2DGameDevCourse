@@ -1,5 +1,6 @@
+Label
+Sprite2D
 ProgressBar
 Control
 CollisionShape2D
-Sprite2D
 Area2D
