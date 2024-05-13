@@ -1,6 +1,6 @@
 res://lessons/mini_dungeon.tscn
 res://addons/gdquest_practice_framework/assets/theme.tres
 res://lessons/chest/chest.tscn
-res://practices/L6.P1.the_pinata/the_pinata.tscn
-res://lessons/chest/chest.gd
-res://practices/L6.P1.the_pinata/balloon_pinata.gd
+res://assets/torch/torch.tscn
+res://lessons/bird.tscn
+res://lessons/bird.gd
